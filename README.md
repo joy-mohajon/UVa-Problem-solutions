@@ -6,7 +6,7 @@ Below is the list of UVa problems along with their problem numbers:
 
 * UVa 101 - The Blocks Problem
 * UVa 102 - Ecological Bin Packing
-...
+  ...
 * UVa 12646 - Grapevine
   
 ### Contributing
